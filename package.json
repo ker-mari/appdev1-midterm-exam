@@ -3,21 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-<<<<<<< HEAD
   "homepage": "https://<ker-mari>.github.io/appdev1-midterm-exam/",
-=======
->>>>>>> 3027302e6d68324d60b2bd2726908b628ca5a7b1
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-<<<<<<< HEAD
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-=======
-    "preview": "vite preview"
->>>>>>> 3027302e6d68324d60b2bd2726908b628ca5a7b1
   },
   "dependencies": {
     "react": "^19.1.1",
@@ -31,15 +24,9 @@
     "eslint": "^9.36.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.22",
-<<<<<<< HEAD
     "gh-pages": "^6.3.0",
     "globals": "^16.4.0",
     "vite": "^7.1.7"
   }
+  
 }
-=======
-    "globals": "^16.4.0",
-    "vite": "^7.1.7"
-  }
-}
->>>>>>> 3027302e6d68324d60b2bd2726908b628ca5a7b1
